@@ -1,6 +1,3 @@
-Tentu, ini adalah draf file `README.md` yang profesional dan informatif untuk proyek simulasi Anda. Anda bisa langsung menyalin kode di bawah ini dan menyimpannya dengan nama **`README.md`** di dalam folder repositori Anda.
-
-```markdown
 # 🎮 Simulasi Agent-Based Modeling (ABM): Steam Support Refund Queue
 
 Proyek ini mensimulasikan sistem antrean pengembalian dana (refund) pada layanan pelanggan menggunakan pendekatan **Agent-Based Modeling (ABM)**. Simulasi ini dibangun menggunakan **Mesa** sebagai mesin logika backend dan **Streamlit** sebagai antarmuka dashboard interaktif.
